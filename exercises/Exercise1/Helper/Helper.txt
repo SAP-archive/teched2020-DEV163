@@ -1,0 +1,25 @@
+Welcome to the SAP Workflow hands-on tutorial.
+
+
+ Workflow
+----------
+
+Sequence Flow from 'Approval required?' gateway to the user task 'Approval Task (Local Manager)'
+${context.approvalStepsResult.Result[0].Approvers.lm_required}
+
+Sequence Flow from 'Approval required?' gateway to the user task 'Approval Task (Central Manager)'
+${context.approvalStepsResult.Result[0].Approvers.cm_required}
+
+Sequence Flow from 'Approval result?' for approval
+${context.decision == "approve"}
+
+Sequence Flow from 'Approval result?' for rework
+${context.decision == "rework"}
+
+
+Configuration of Service Task 'Retrieve Approval Steps'
+Destination: BusinessRulesV2
+Path: /rest/v2/workingset-rule-services
+Request Variable: ${context.rulesPayload}
+Response Variable: ${context.approvalStepsResult}
+
