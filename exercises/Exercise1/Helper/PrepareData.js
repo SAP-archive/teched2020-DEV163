@@ -1,5 +1,5 @@
 // Change this value:
-var ruleServiceId = "ba2229ca79874fe381ced8a4ee6dad21";
+var ruleServiceId = "a37df8246b2048dfba6f07c46e6ed25f";
 
 // -----------------------------------------------------------------------------------------
 // no modifications needed below this line
@@ -42,6 +42,7 @@ var details = {
 
 var rulesPayload = {
 	"RuleServiceId": ruleServiceId,
+	"RuleServiceRevision": "Trial",
 	"Vocabulary": [ { "Investment": details } ]
 };
 
