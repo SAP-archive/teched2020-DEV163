@@ -2,28 +2,25 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow. 
+This repository contains the material for the SAP TechEd 2020 session called **DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow**. 
 
 ## Overview
-The SAP Cloud Platform Workflow Management service combines workflow, business rules, and process visibility into a single unified offering that helps you increase business process automation and efficiency. The service includes the following capabilities.
-- Workflow : Digitalize workflows, automate and orchestrate structured processes tailored to business needs.
-- Business Rules: Automate and flexibly adapt decision logic in your processes, independently of application development.
-- Process Visibility:  Provide real-time, event-driven visibility into end-to-end processes.
-- Process Flexibility:  Enable business experts to manage processes, decisions and visibility dashboards using low/no-code approach.
-- Live process content packages: Flexibly extend standard processes with predefined live process content packages.
 
-This session introduces attendees to workflow, business rules and process visibility capabilities of Workflow Management.
+**The SAP Cloud Platform Workflow Management** service combines workflow, business rules, and process visibility into a single unified offering that helps you increase business process automation and efficiency. The service includes the following capabilities.
+- **Workflow** : Digitalize workflows, automate and orchestrate structured processes tailored to business needs.
+- **Business Rules**: Automate and flexibly adapt decision logic in your processes, independently of application development.
+- **Process Visibility**:  Provide real-time, event-driven visibility into end-to-end processes.
+- **Process Flexibility**:  Enable business experts to manage processes, decisions and visibility dashboards using low/no-code approach.
+- **Live Process Content Packages**: Flexibly extend standard processes with predefined live process content packages.
 
-## Requirements
-
-The requirements to follow the exercises in this repository are...
+This session introduces to workflow, business rules and process visibility capabilities of Workflow Management.
 
 ## Exercises
 
-There are 4 set of exercises. 
+There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercise. You can choose to run one or more exercises 1, 2, and 3. These exercises are independent of each other and the instructions are mentioned in the respective links below.  
 
-- [Prerequisite | Setup](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise0/Setup%20Trial%20Landscape.pdf)
-    - Duration: 15 min. This is MANDATORY exercise.
+- [Exercise 0 - Setup](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise0/Setup%20Trial%20Landscape.pdf)
+    - Duration: 15 min. This is a **MANDATORY** exercise.
     - It will help you setup your SAP Cloud Platform Trial environment with SAP Cloud Platform Workflow Management services. 
 
 - [Exercise 1 - Workflow](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise1/Workflow.pdf)
