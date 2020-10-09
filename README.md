@@ -2,11 +2,17 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow. 
 
 ## Overview
+The SAP Cloud Platform Workflow Management service combines workflow, business rules, and process visibility into a single unified offering that helps you increase business process automation and efficiency. The service includes the following capabilities.
+- Workflow : Digitalize workflows, automate and orchestrate structured processes tailored to business needs.
+- Business Rules: Automate and flexibly adapt decision logic in your processes, independently of application development.
+- Process Visibility:  Provide real-time, event-driven visibility into end-to-end processes.
+- Process Flexibility:  Enable business experts to manage processes, decisions and visibility dashboards using low/no-code approach.
+- Live process content packages: Flexibly extend standard processes with predefined live process content packages.
 
-This session introduces attendees to...
+This session introduces attendees to workflow, business rules and process visibility capabilities of Workflow Management.
 
 ## Requirements
 
@@ -14,28 +20,30 @@ The requirements to follow the exercises in this repository are...
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+There are 4 set of exercises. 
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Prerequisite | Setup](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise0/Setup%20Trial%20Landscape.pdf)
+    - Duration: 15 min. This is MANDATORY exercise.
+    - It will help you setup your SAP Cloud Platform Trial environment with SAP Cloud Platform Workflow Management services. 
 
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Exercise 1 - Workflow](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise1/Workflow.pdf)
+    - Duration: 90 minutes 
+    - In this exercise you will learn how to:
+        - model, build and deploy workflow from SAP Business Application Studio.
+        - monitor and execute workflow. 
+        
+- [Exercise 2 - Business Rules](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise2/BusinessRules.pdf)
+    - Duration: 60 minutes
+    - In this exercise you will learn how to:
+        - create, configure and deploy these business rules models using standard Manage Rules Application.
+        - test and consume APIs published in SAP API Business Hub.
+        
+- [Exercise 3 - Process Visibility](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise3/ProcessVisibility.pdf)
+    - Duration: 60 minutes
+    - In this exercise you will learn how to: 
+        - create, configure and activate business scenario.
+        - access process workspace to track processes and key business KPIs.
+        - configure, view and monitor events and process visibility.
 
 ## How to obtain support
 
