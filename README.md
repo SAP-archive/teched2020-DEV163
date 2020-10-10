@@ -17,17 +17,18 @@ This session introduces to workflow, business rules and process visibility capab
 
 ## Exercises
 
-There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercise. You can choose to run one or more exercises 1, 2, and 3. These exercises are independent of each other and the instructions are mentioned in the respective links below.  
+There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercises. You can choose to run one or more exercises 1, 2, and 3 in any order. These exercises are independent of each other and the instructions are mentioned in the respective links below.  
 
 - [Exercise 0 - Setup](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise0/Setup%20Trial%20Landscape.pdf)
     - Duration: 15 min. This is a **MANDATORY** exercise.
-    - It will help you setup your SAP Cloud Platform Trial environment with SAP Cloud Platform Workflow Management services. 
+    - It will help you setup your SAP Cloud Platform Trial account with SAP Cloud Platform Workflow Management services. 
 
 - [Exercise 1 - Workflow](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise1/Workflow.pdf)
     - Duration: 90 minutes 
     - In this exercise you will learn how to:
         - model, build and deploy workflow from SAP Business Application Studio.
-        - monitor and execute workflow. 
+        - monitor and execute workflow using standard Monitor Workflow applications. 
+        - access My Inbox application to approve, reject or rework user task. 
         
 - [Exercise 2 - Business Rules](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise2/BusinessRules.pdf)
     - Duration: 60 minutes
@@ -40,7 +41,7 @@ There are 4 set of exercises. Exercise 0 is a mandatory setup before executing a
     - In this exercise you will learn how to: 
         - create, configure and activate business scenario.
         - access process workspace to track processes and key business KPIs.
-        - configure, view and monitor events and process visibility.
+        - configure, view and monitor events and business scenarios.
 
 ## How to obtain support
 
