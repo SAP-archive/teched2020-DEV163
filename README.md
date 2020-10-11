@@ -25,20 +25,27 @@ There are 4 set of exercises. Exercise 0 is a mandatory setup before executing a
 
 - [Exercise 1 - Workflow](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise1/Workflow.pdf)
     - Duration: 90 minutes 
-    - In this exercise you will learn how to:
+    - In this exercise, you will learn how to:
         - model, build and deploy workflow from SAP Business Application Studio.
         - monitor and execute workflow using standard Monitor Workflow applications. 
         - access My Inbox application to approve, reject or rework user task. 
         
-- [Exercise 2 - Business Rules](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise2/BusinessRules.pdf)
+- [Exercise 2.1 - Business Rules](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise2/BusinessRules.pdf)
     - Duration: 60 minutes
-    - In this exercise you will learn how to:
+    - In this exercise, you will learn how to:
         - create, configure and deploy these business rules models using standard Manage Rules Application.
         - test and consume APIs published in SAP API Business Hub.
+  
+ - [Exercise 2.2 - Integrate Business Rules with Workflow](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise2/IntegrationWithWorkflow.pdf)
+    - Duration: 30 minutes
+    - Prerequisite: Exercise 2.1 has to be executed mandatorily. 
+    - In this exercise, you will learn how to:
+        - integrate business rules with workflow.
+        - test the integration by running the workflow from standard Monitor Workflow applications.
         
 - [Exercise 3 - Process Visibility](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise3/ProcessVisibility.pdf)
     - Duration: 60 minutes
-    - In this exercise you will learn how to: 
+    - In this exercise, you will learn how to: 
         - create, configure and activate business scenario.
         - access process workspace to track processes and key business KPIs.
         - configure, view and monitor events and business scenarios.
