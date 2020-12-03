@@ -1,5 +1,5 @@
 // Change this value:
-var ruleServiceId = "a37df8246b2048dfba6f07c46e6ed25f";
+var ruleServiceId = "48e84629d7a442bcb43dfc05c7746b36";
 
 // -----------------------------------------------------------------------------------------
 // no modifications needed below this line
