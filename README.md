@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called **DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow**. 
+This repository contains the material for the SAP TechEd 2020 session called **DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow Management**. 
 
 ## Overview
 
