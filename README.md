@@ -1,4 +1,4 @@
-# DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow
+# DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow Management
 
 ## Description
 
