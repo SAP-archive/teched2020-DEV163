@@ -17,9 +17,9 @@ This session introduces to workflow, business rules and process visibility capab
 
 ## Exercises
 
-There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercises. You can choose to run one or more exercises 1, 2, and 3 in any order. These exercises are independent of each other and the instructions are mentioned in the respective links below.  
-
 **You can click to [Start the Mission](https://discovery-center.cloud.sap/missiondetail/3346/3392) in SAP Discovery Center or download the exercises below.**
+
+There are 4 set of exercises. Exercise 0 is a mandatory setup before executing any exercises. You can choose to run one or more exercises 1, 2, and 3 in any order. These exercises are independent of each other and the instructions are mentioned in the respective links below.  
 
 - [Exercise 0 - Setup](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise0/Setup%20Trial%20Landscape.pdf)
     - Duration: 15 min. This is a **MANDATORY** exercise.
