@@ -1,14 +1,14 @@
-# DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow Management
+# DEV163 - Build a Workflow from Scratch with SAP Workflow Management
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-DEV163)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-DEV163)
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called **DEV163 - Build a Workflow from Scratch with SAP Cloud Platform Workflow Management**. 
+This repository contains the material for the SAP TechEd 2020 session called **DEV163 - Build a Workflow from Scratch with SAP Workflow Management**. 
 
 ## Overview
 
-**The SAP Cloud Platform Workflow Management** service combines workflow, business rules, and process visibility into a single unified offering that helps you increase business process automation and efficiency. The service includes the following capabilities.
+**The SAP Workflow Management** combines workflow, business rules, and process visibility services into a single unified offering that helps you increase business process automation and efficiency. The service includes the following capabilities.
 - **Workflow** : Digitalize workflows, automate and orchestrate structured processes tailored to business needs.
 - **Business Rules**: Automate and flexibly adapt decision logic in your processes, independently of application development.
 - **Process Visibility**:  Provide real-time, event-driven visibility into end-to-end processes.
@@ -25,7 +25,7 @@ There are 4 set of exercises. Exercise 0 is a mandatory setup before executing a
 
 - [Exercise 0 - Setup](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise0/Setup%20Trial%20Landscape.pdf)
     - Duration: 15 min. This is a **MANDATORY** exercise.
-    - It will help you setup your SAP Cloud Platform Trial account with SAP Cloud Platform Workflow Management services. 
+    - It will help you setup your SAP Cloud Platform Trial account with SAP Workflow Management. 
 
 - [Exercise 1 - Workflow](https://github.com/SAP-samples/teched2020-DEV163/blob/master/exercises/Exercise1/Workflow.pdf)
     - Duration: 90 minutes 
